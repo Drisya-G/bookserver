@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "54c6f4ab-e885-4c27-8b42-d49d64cc33df",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8000/api/delete-book",
+    "url": "http://localhost:8000/api/delete-book",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-12-08T15:17:42.442Z",
+    "modified": "2022-12-08T15:17:42.442Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
